@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="ToolBarTheme" parent="Theme.AppCompat.Light.NoActionBar" tools:ignore="ResourceName">
+
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="colorControlNormal">#ffffff</item>
+
+    </style>
+
+
+</resources>

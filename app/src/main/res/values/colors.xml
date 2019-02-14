@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C17300</color>
+    <color name="colorPrimaryDark">#C17300</color>
+    <color name="colorAccent">#DCAA60</color>
+    <color name="background_color">#f7f7f7</color>
+
+
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="line_bg_color">#eeeeee</color>
+    <color name="theme_color">#C17300</color>
+    <color name="four_color">#444444</color>
+    <color name="six_color">#666666</color>
+    <color name="five_color">#555555</color>
+    <color name="three_color">#333333</color>
+    <color name="nine_color">#999999</color>
+
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="home_supplier_title">
+        <item>资金明细</item>
+        <item>发起提现</item>
+        <item>我的粉丝</item>
+        <item>银行卡</item>
+        <item>设置</item>
+    </string-array>
+
+
+    <string-array name="home_com_title">
+        <item>资金明细</item>
+        <item>发起提现</item>
+        <item>我的粉丝</item>
+        <item>定点商户</item>
+        <item>银行卡</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="home_pro_title">
+        <item>资金明细</item>
+        <item>发起提现</item>
+        <item>我的粉丝</item>
+        <item>我的市代</item>
+        <item>银行卡</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="home_city_title">
+        <item>资金明细</item>
+        <item>发起提现</item>
+        <item>我的粉丝</item>
+        <item>社区待</item>
+        <item>银行卡</item>
+        <item>设置</item>
+    </string-array>
+
+
+    <string-array name="home_shop_title">
+        <item>我的订单</item>
+        <item>资金明细</item>
+        <item>发起提现</item>
+        <item>我的粉丝</item>
+        <item>消息中心</item>
+        <item>二维码</item>
+        <item>银行卡</item>
+        <item>店铺信息</item>
+        <item>设置</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,87 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">少花点商家版</string>
+    <string name="login" translatable="false">登录</string>
+    <string name="hint_zhanghu" translatable="false">请输入账号</string>
+    <string name="hint_password" translatable="false">请输入密码</string>
+    <string name="forget_pass" translatable="false">忘记密码？</string>
+    <string name="verify_acc" translatable="false">验证账号</string>
+    <string name="next" translatable="false">下一步</string>
+    <string name="sure" translatable="false">确定</string>
+    <string name="hint_code" translatable="false">该账号已绑定手机号%1$s，我们已发送短信验证码，请查看并输入验证码。</string>
+    <string name="set_pass" translatable="false">设置密码</string>
+    <string name="back" translatable="false">返回</string>
+
+
+    <string name="hint_text1" translatable="false">请输入手机号</string>
+    <string name="hint_text2" translatable="false">请输入密码</string>
+    <string name="hint_text3" translatable="false">请输入你的手机号码</string>
+    <string name="hint_text4" translatable="false">请输入验证码</string>
+    <string name="hint_text5" translatable="false">获取验证码</string>
+    <string name="hint_text6" translatable="false">长度在6~16位 (数字或字母）</string>
+    <string name="hint_text7" translatable="false">1,024.00</string>
+    <string name="hint_text8" translatable="false">今日收益</string>
+    <string name="hint_text9" translatable="false">今日收益</string>
+    <string name="hint_text10" translatable="false">今日访客数</string>
+    <string name="hint_text11" translatable="false">今日订单数</string>
+    <string name="hint_text12" translatable="false">订单管理</string>
+    <string name="hint_text13" translatable="false">查看全部订单</string>
+    <string name="hint_text14" translatable="false">0</string>
+    <string name="hint_text15" translatable="false">待付款</string>
+    <string name="hint_text16" translatable="false">待发货</string>
+    <string name="hint_text17" translatable="false">待收货</string>
+    <string name="hint_text18" translatable="false">待售后</string>
+    <string name="hint_text19" translatable="false">商品管理</string>
+    <string name="hint_text20" translatable="false">添加商品</string>
+    <string name="hint_text21" translatable="false">XX市代</string>
+    <string name="hint_text22" translatable="false">我的订单</string>
+    <string name="hint_text23" translatable="false">2018年11月20号</string>
+    <string name="hint_text24" translatable="false">商家二维码</string>
+    <string name="orcode_hint" translatable="false">顾客扫码下载，即可获得每笔消费2% 的收益，发展越多，收益越多</string>
+    <string name="save_xc" translatable="false">保存至相册</string>
+    <string name="hint_text25" translatable="false">资金明细</string>
+    <string name="hint_text26" translatable="false">提现</string>
+    <string name="mail_bank" translatable="false">中国邮政储蓄银行</string>
+    <string name="hint_text27" translatable="false">尾号1526储蓄卡</string>
+    <string name="drawing_limit" translatable="false">提现额度</string>
+    <string name="all_moeny" translatable="false">全部提现</string>
+    <string name="sure_drawing_money" translatable="false">确认提现</string>
+    <string name="my_bankcard" translatable="false">我的银行卡</string>
+    <string name="add_bank_card" translatable="false">添加银行卡</string>
+    <string name="china_mail" translatable="false">中国邮政储蓄银行</string>
+    <string name="disposit_card" translatable="false">储蓄卡</string>
+    <string name="deposit_card" translatable="false">储蓄卡</string>
+    <string name="xxx" translatable="false">**** **** ****</string>
+    <string name="china_icbc" translatable="false">中国工商银行</string>
+    <string name="hint_text28" translatable="false">尾号0000储蓄卡</string>
+    <string name="hint_text29" translatable="false">请绑定持卡人本人的银行卡</string>
+    <string name="card_holder" translatable="false">持卡人</string>
+    <string name="cardholder_name" translatable="false">小珊珊</string>
+    <string name="card_number" translatable="false">卡号</string>
+    <string name="input_bank_card" translatable="false">请输入卡号</string>
+    <string name="my_fans" translatable="false">我的粉丝</string>
+    <string name="setting" translatable="false">设置</string>
+    <string name="text_name" translatable="false">姓名</string>
+    <string name="phone_number" translatable="false">手机号</string>
+    <string name="relieve_binding" translatable="false">解除绑定</string>
+    <string name="account" translatable="false">账号</string>
+    <string name="hint_text30" translatable="false">x_ss12586522222</string>
+    <string name="modification_password" translatable="false">修改登录密码</string>
+    <string name="pay_password" translatable="false">支付密码</string>
+    <string name="real_name" translatable="false">实名认证</string>
+    <string name="clear_cache" translatable="false">清除缓存</string>
+    <string name="cache" translatable="false">7M</string>
+    <string name="start_audio" translatable="false">启动音效</string>
+    <string name="replace_acc" tools:ignore="MissingTranslation">替换账号</string>
+    <string name="exit" tools:ignore="MissingTranslation">退出</string>
+    <string name="order_message" tools:ignore="MissingTranslation">订单信息</string>
+    <string name="my_shop" tools:ignore="MissingTranslation">我的商品</string>
+    <string name="save" tools:ignore="MissingTranslation">保存</string>
+    <string name="add_commodity" tools:ignore="MissingTranslation">添加商品</string>
+    <string name="title" tools:ignore="MissingTranslation">标题: </string>
+    <string name="hint_text31" tools:ignore="MissingTranslation">（例如:【五双装】韩版复古长袜五色装）</string>
+    <string name="hint_text32" tools:ignore="MissingTranslation">注：最多上传10张照片</string>
+    <string name="commodity_describe">商品描述</string>
+    <string name="hint_text33">商品描述信息</string>
+
+
+</resources>
